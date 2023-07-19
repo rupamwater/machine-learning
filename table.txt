@@ -1,0 +1,4 @@
+"CORP PROFILE NAME", "EMAIL", "USER PROFILE_ID", "CorpProfileID", "JURISDICTION","UserStatus", "User_UserType", "RealUserType"
+"KOWAL ENERGY","mike.rety@kowalenergy.co.zm","64856583","8309475839","Zambia","InvitationSent","ClientUser","ClientUser"
+"PILA TRADING","tithi.uioy@kowalenergy.co.zm","90687532","6796409139","Ghana","Created","ClientUser","ClientUser"
+"STANDARD INVESTMENTS","mike.rety@kowalenergy.co.zm","98634089","6989649641","Kenya","Active","ClientUser","ClientUser"

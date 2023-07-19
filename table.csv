@@ -1,0 +1,8 @@
+CORP_PROFILE_NAME,EMAIL,USER PROFILE_ID,CorpProfileID,JURISDICTION,UserStatus,User_UserType,RealUserType
+KOWAL ENERGY,mike.rety@kowalenergy.co.zm,64856583,8309475839,Zambia,Active,ClientUser,ClientUser
+PILA TRADING,tithi.uioy@kowalenergy.co.zm,90687532,6796409139,Ghana,Created,ClientUser,ClientUser
+ABSA INVESTMENTS,tenowa.simone@absa.africa,98634089,6989649641,Kenya,Active,ColleaguetUser,ColleagueUser
+ALLAN - SECURITIES,pat.utasr@absamail.com,85938508,284958,Mauritius,InvitationSent,ClientUser,ClientUser
+ABCAP - SECURITIES,cathy.loperr@absa.africa,85938508,284958,South Africa,Active,ColleagueUser,ColleagueUser
+ABK - Markets,kel.matura@abkmkt.co.ke,85938508,284958,Kenya,Active,ClientUser,ColleagueUser
+OLYMPUS MUTUAL,okjl.pease@olympumutual.co.ug,3426608,7593757,Uganda,Active,ClientUser,ClientUser
